@@ -1,6 +1,8 @@
 # reading_list_journal_club
 
-reading list journal club
+## Introduction
+
+A reading list for a journal club
 
 Computer scientist as toolsmith 2
 
@@ -18,3 +20,8 @@ https://arxiv.org/abs/1807.03341
 Trans-disciplinarity
 
 https://medium.com/@miekevanderbijl/transdisciplinary-innovation-and-design-d19d1520ddca
+
+
+The Mythical Man Month
+
+https://archive.org/details/MythicalManMonth/page/n29/mode/2up
