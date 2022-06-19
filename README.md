@@ -4,6 +4,8 @@
 
 A reading list for a journal club
 
+### Human computer interaction
+
 Computer scientist as toolsmith 2
 
 https://dl.acm.org/doi/epdf/10.1145/227234.227243
@@ -32,8 +34,12 @@ PPI in AI
 https://www.cell.com/patterns/fulltext/S2666-3899(22)00098-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389922000988%3Fshowall%3Dtrue#relatedArticles
 
 
-## Other papers related to explainable AI (xAI)
+### Other papers related to explainable AI (xAI)
+
+Class contrastive reasoning
 
 https://www.nature.com/articles/s41537-021-00191-y
 
+Explainability is in the mind of the beholder
 
+https://arxiv.org/abs/2112.14466
