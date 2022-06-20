@@ -34,6 +34,11 @@ PPI in AI
 https://www.cell.com/patterns/fulltext/S2666-3899(22)00098-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389922000988%3Fshowall%3Dtrue#relatedArticles
 
 
+Communication between humans and computers
+
+http://inverseprobability.com/talks/notes/understanding-ai.html
+
+
 ### Other papers related to explainable AI (xAI)
 
 Class contrastive reasoning
