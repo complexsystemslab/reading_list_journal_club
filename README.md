@@ -23,6 +23,8 @@ Trans-disciplinarity
 
 https://medium.com/@miekevanderbijl/transdisciplinary-innovation-and-design-d19d1520ddca
 
+https://dl.designresearchsociety.org/drs-conference-papers/drs2022/researchpapers/112/
+
 
 The Mythical Man Month
 
