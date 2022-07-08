@@ -40,6 +40,9 @@ Communication between humans and computers
 
 http://inverseprobability.com/talks/notes/understanding-ai.html
 
+Data ethics club
+
+https://doi.org/10.1016/j.patter.2022.100537
 
 ### Other papers related to explainable AI (xAI)
 
