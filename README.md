@@ -26,6 +26,11 @@ https://medium.com/@miekevanderbijl/transdisciplinary-innovation-and-design-d19d
 https://dl.designresearchsociety.org/drs-conference-papers/drs2022/researchpapers/112/
 
 
+Design in complex environments and complex systems
+
+https://www.sciencedirect.com/science/article/pii/S2405872618300790#fn44
+
+
 The Mythical Man Month
 
 https://archive.org/details/MythicalManMonth/page/n29/mode/2up
