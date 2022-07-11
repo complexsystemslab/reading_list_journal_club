@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A reading list for a journal club
+A reading list for a journal club and special topics class
 
 ### Human computer interaction
 
