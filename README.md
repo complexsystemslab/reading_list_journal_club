@@ -40,6 +40,12 @@ Communication between humans and computers
 
 http://inverseprobability.com/talks/notes/understanding-ai.html
 
+How data is used by activists and how to sustain data activism
+
+https://doi.org/10.1016/j.patter.2022.100530
+
+
+
 ### Data Ethics
 
 Data ethics club
