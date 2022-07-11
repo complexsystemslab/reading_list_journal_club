@@ -49,6 +49,11 @@ How data is used by activists and how to sustain data activism
 
 https://doi.org/10.1016/j.patter.2022.100530
 
+### Software engineering and AI deployment and practice
+
+Cognitive bias in software engineering
+
+https://cacm.acm.org/magazines/2022/4/259421-cognitive-biases-in-software-development
 
 
 ### Data Ethics
@@ -72,6 +77,9 @@ Explainability is in the mind of the beholder
 
 https://arxiv.org/abs/2112.14466
 
+Explainable AI Pandora's Box Pitfalls
+
+https://cacm.acm.org/magazines/2022/4/259398-explainable-ai/fulltext
 
 
 ### Contact
