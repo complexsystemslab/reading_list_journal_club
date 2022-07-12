@@ -51,6 +51,11 @@ How data is used by activists and how to sustain data activism (participatory ac
 
 https://doi.org/10.1016/j.patter.2022.100530
 
+User feedback in developing nations
+
+https://ideaspace.cam.ac.uk/2022/02/01/start-up-stories-with-tristram-norman/
+
+
 ### Software engineering and AI deployment and practice
 
 Cognitive bias in software engineering
