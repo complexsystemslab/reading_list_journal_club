@@ -55,6 +55,10 @@ Cognitive bias in software engineering
 
 https://cacm.acm.org/magazines/2022/4/259421-cognitive-biases-in-software-development
 
+Challenges in deploying machine learning models 
+
+https://www.repository.cam.ac.uk/handle/1810/336516
+
 
 ### Data Ethics
 
