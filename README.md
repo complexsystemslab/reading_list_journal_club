@@ -69,6 +69,10 @@ https://dataethicsclub.com/contents/reading-list.html
 
 ### Other papers related to explainable AI (xAI)
 
+High stakes decisions using simple models (Cynthia Rudin): iterating with experts and building simple explainable models
+
+https://arxiv.org/abs/1811.10154
+
 Class contrastive reasoning
 
 https://www.nature.com/articles/s41537-021-00191-y
