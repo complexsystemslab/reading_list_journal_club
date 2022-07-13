@@ -97,6 +97,10 @@ Explainable AI Pandora's Box Pitfalls
 https://cacm.acm.org/magazines/2022/4/259398-explainable-ai/fulltext
 
 
+Conversations with clinicians
+
+https://www.vanderschaar-lab.com/making-machine-learning-interpretable-a-dialog-with-clinicians/
+
 ### Contact
 
 Soumya Banerjee
