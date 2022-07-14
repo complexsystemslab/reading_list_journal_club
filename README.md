@@ -101,6 +101,11 @@ Conversations with clinicians
 
 https://www.vanderschaar-lab.com/making-machine-learning-interpretable-a-dialog-with-clinicians/
 
+All boxes are black (clinicians also do not understand exactly how machines/interventions work)
+
+https://journals.lww.com/anesthesia-analgesia/Fulltext/2016/02000/All_Boxes_Are_Black.6.aspx#
+
+
 ### Contact
 
 Soumya Banerjee
