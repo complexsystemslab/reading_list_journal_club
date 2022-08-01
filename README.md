@@ -77,6 +77,8 @@ https://dataethicsclub.com/contents/write_ups/write-ups.html
 
 https://dataethicsclub.com/contents/reading-list.html
 
+https://datahazards.com/
+
 
 ### Other papers related to explainable AI (xAI)
 
