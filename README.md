@@ -10,6 +10,9 @@ Computer scientist as toolsmith 2
 
 https://dl.acm.org/doi/epdf/10.1145/227234.227243
 
+  * > In contrast with many engineers who make houses, cars, medicines, and clothing for human need and enjoyment, we make    things that do not themselves directly satisfy human needs, but which others use in making things that enrich human living. In a word, the computer scientist is a toolsmith—no more, but no less. It is an honorable calling. If we perceive our role aright, we then see more clearly the proper criterion for success: a toolmaker succeeds as, and only as, the users of his tool succeed with his aid. However shining the blade, however jeweled the hilt, however perfect the heft, a sword is tested only by cutting. That swordsmith is successful whose clients die of old age.
+
+
 Machine learning toolsmith
 
 https://bastian.rieck.me/blog/posts/2022/toolsmith/
