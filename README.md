@@ -108,6 +108,12 @@ All boxes are black (clinicians also do not understand exactly how machines/inte
 https://journals.lww.com/anesthesia-analgesia/Fulltext/2016/02000/All_Boxes_Are_Black.6.aspx#
 
 
+### Other xAI papers
+
+The emergence of understanding in a computer model of concepts and analogy-making
+
+https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
+
 ### Contact
 
 Soumya Banerjee
