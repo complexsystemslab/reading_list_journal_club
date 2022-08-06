@@ -118,6 +118,12 @@ The emergence of understanding in a computer model of concepts and analogy-makin
 
 https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
 
+### Cognitive psychology
+
+The Psychology of Invention in the Mathematical Field
+
+The Theory of Mind
+
 ### Contact
 
 Soumya Banerjee
