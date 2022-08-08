@@ -118,6 +118,13 @@ The emergence of understanding in a computer model of concepts and analogy-makin
 
 https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
 
+
+### Systemic effects of AI
+
+https://www.tomhegen.com/collections/the-lithium-series-i
+
+
+
 ### Cognitive psychology
 
 The Psychology of Invention in the Mathematical Field
