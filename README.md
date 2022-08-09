@@ -4,7 +4,7 @@
 
 A reading list for a journal club and special topics class 
 
-`Unconventional approaches in AI: transdisciplinarity, complex systems perspectives, ethics and explainability`
+`Unconventional approaches in AI and CS: transdisciplinarity, complex systems perspectives, participatory design, ethics and explainability`
 
 ### Human computer interaction
 
