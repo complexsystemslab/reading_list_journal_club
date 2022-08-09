@@ -67,7 +67,7 @@ Seymour Papert
 
 https://www.nature.com/articles/537308a
 
-`Actively constructing models builds understanding`
+> Actively constructing models builds understanding
 
 
 ### Software engineering and AI deployment and practice
