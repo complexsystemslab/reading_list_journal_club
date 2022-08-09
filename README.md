@@ -61,6 +61,14 @@ User feedback in developing nations
 
 https://ideaspace.cam.ac.uk/2022/02/01/start-up-stories-with-tristram-norman/
 
+### Constructionism
+
+Seymour Papert
+
+https://www.nature.com/articles/537308a
+
+`Actively constructing models builds understanding`
+
 
 ### Software engineering and AI deployment and practice
 
@@ -128,21 +136,37 @@ https://www.tomhegen.com/collections/the-lithium-series-i
 https://anatomyof.ai/
 
 
-### Cognitive psychology
+### Cognitive psychology and computational models of creativity
 
 The Psychology of Invention in the Mathematical Field
 
 The Theory of Mind
 
-### Computer science education and justice
+Copycat (a computational model of analogy making)
+
+The emergence of understanding in a computer model of concepts and analogy-making
+
+https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
+
+
+### Computer science education and justice for ethical AI
 
 Toward Justice in Computer Science through Community, Criticality, and Citizenship
 
 https://cacm.acm.org/magazines/2022/5/260351-toward-justice-in-computer-science-through-community-criticality-and-citizenship/fulltext
 
-### Intersectionality
+### Intersectionality in AI
 
-TBD
+Intersectional AI is essential: polyvocal, multimodal, experimental methods to save artificial intelligence
+
+https://revistas.ucp.pt/index.php/jsta/article/view/7328
+
+### Postcolonial/decolonial theories applied to AI
+
+Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intelligence
+
+https://link.springer.com/article/10.1007/s13347-020-00405-8
+
 
 ### Other links (administrative)
 
