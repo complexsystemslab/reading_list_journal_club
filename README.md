@@ -134,12 +134,15 @@ The Psychology of Invention in the Mathematical Field
 
 The Theory of Mind
 
-### Computer science education adn justice
+### Computer science education and justice
 
 Toward Justice in Computer Science through Community, Criticality, and Citizenship
 
 https://cacm.acm.org/magazines/2022/5/260351-toward-justice-in-computer-science-through-community-criticality-and-citizenship/fulltext
 
+### Intersectionality
+
+TBD
 
 ### Other links (administrative)
 
