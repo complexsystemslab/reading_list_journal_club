@@ -156,6 +156,13 @@ The overfitted brain: Dreams evolved to assist generalization
 
 https://doi.org/10.1016/j.patter.2021.100244
 
+
+Commonsense reasoning
+
+https://dl.acm.org/doi/10.1145/2701413
+
+
+
 ### Computer science education and justice for ethical AI
 
 Toward Justice in Computer Science through Community, Criticality, and Citizenship
