@@ -167,10 +167,21 @@ Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intel
 
 https://link.springer.com/article/10.1007/s13347-020-00405-8
 
+### Data Feminism
+
 
 ### Other links (administrative)
 
 https://www.cl.cam.ac.uk/teaching/2122/R255/
+
+### Writeup
+
+Reimagine a future Ai deployed systemic impact
+
+Case studies: working in a logistics company and deploying AI
+
+Voices of students
+
 
 
 ### Contact
