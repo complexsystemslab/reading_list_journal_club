@@ -148,6 +148,10 @@ The emergence of understanding in a computer model of concepts and analogy-makin
 
 https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
 
+Creativity and artificial intelligence
+
+https://www.sciencedirect.com/science/article/pii/S0004370298000551
+
 The overfitted brain: Dreams evolved to assist generalization
 
 https://doi.org/10.1016/j.patter.2021.100244
