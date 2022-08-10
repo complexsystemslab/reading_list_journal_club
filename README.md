@@ -136,7 +136,7 @@ https://www.tomhegen.com/collections/the-lithium-series-i
 https://anatomyof.ai/
 
 
-### Cognitive psychology and computational models of creativity
+### Cognitive psychology, computational models of creativity and other unconventional models
 
 The Psychology of Invention in the Mathematical Field
 
@@ -148,6 +148,9 @@ The emergence of understanding in a computer model of concepts and analogy-makin
 
 https://www.sciencedirect.com/science/article/abs/pii/0167278990900865?via%3Dihub
 
+The overfitted brain: Dreams evolved to assist generalization
+
+https://doi.org/10.1016/j.patter.2021.100244
 
 ### Computer science education and justice for ethical AI
 
