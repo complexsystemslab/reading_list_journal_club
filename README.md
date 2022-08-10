@@ -181,6 +181,11 @@ Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intel
 
 https://link.springer.com/article/10.1007/s13347-020-00405-8
 
+Info-topia: Postcolonial cyberspace and artificial intelligence in TRON: Legacy and Nalo Hopkinson’s Midnight Robber
+
+https://www.tandfonline.com/doi/abs/10.1080/17449855.2017.1405834
+
+
 ### Data Feminism
 
 
