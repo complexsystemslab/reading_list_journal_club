@@ -181,6 +181,8 @@ Decolonial AI: Decolonial Theory as Sociotechnical Foresight in Artificial Intel
 
 https://link.springer.com/article/10.1007/s13347-020-00405-8
 
+> A decolonial framework helps connect instances of algorithmic oppression to wider socio-political and cultural contexts, enabling a geographically, historically and intersectionally expansive analysis of risks and opportunities pertaining to AI systems. Notably, it allows for the analysis to move beyond North American or European identity frameworks or definitions of harms. By connecting instances of algorithmic oppression across geographies, new approaches that consider alternative possibilities of using technology in socially complex settings in more critical and considered ways will emerge, and so too will designs that incorporate inclusive and well-adapted mechanisms of oversight and redress from the start.
+
 Info-topia: Postcolonial cyberspace and artificial intelligence in TRON: Legacy and Nalo Hopkinson’s Midnight Robber
 
 https://www.tandfonline.com/doi/abs/10.1080/17449855.2017.1405834
