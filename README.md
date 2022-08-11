@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A reading list for a journal club and special topics class 
+A reading list for a journal club and special topics class. A tentative title is: 
 
 `Unconventional approaches in AI and CS: transdisciplinarity, complex systems perspectives, participatory design, ethics and explainability`
 
@@ -161,6 +161,11 @@ Commonsense reasoning
 
 https://dl.acm.org/doi/10.1145/2701413
 
+Stories and narratives (Patrick Winston)
+
+https://nautil.us/the-storytelling-computer-8380/
+
+https://dspace.mit.edu/handle/1721.1/67693
 
 
 ### Computer science education and justice for ethical AI
