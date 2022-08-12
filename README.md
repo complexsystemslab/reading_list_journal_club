@@ -168,6 +168,13 @@ https://nautil.us/the-storytelling-computer-8380/
 https://dspace.mit.edu/handle/1721.1/67693
 
 
+### Actor-Network Theory
+
+Health information systems in developing countries: some reflections on information for action
+
+https://www.repository.cam.ac.uk/bitstream/handle/1810/289902/HIS%20ITD%20paper%20version%20-%20Feb%202019.docx?sequence=1
+
+
 ### Computer science education and justice for ethical AI
 
 Toward Justice in Computer Science through Community, Criticality, and Citizenship
@@ -179,6 +186,11 @@ https://cacm.acm.org/magazines/2022/5/260351-toward-justice-in-computer-science-
 Intersectional AI is essential: polyvocal, multimodal, experimental methods to save artificial intelligence
 
 https://revistas.ucp.pt/index.php/jsta/article/view/7328
+
+Inequality of what? An intersectional approach to digital inequality under Covid-19
+
+https://www.sciencedirect.com/science/article/abs/pii/S1471772721000075
+
 
 ### Postcolonial/decolonial theories applied to AI
 
