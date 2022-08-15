@@ -214,11 +214,13 @@ https://www.cl.cam.ac.uk/teaching/2122/R255/
 
 ### Writeup
 
-Reimagine a future Ai deployed systemic impact
+Reimagine a future where AI is deployed  
+
+Evaluate systemic impact of AI
 
 Case studies: working in a logistics company and deploying AI
 
-Voices of students
+Voices of students (paper)
 
 
 
