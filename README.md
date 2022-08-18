@@ -207,12 +207,15 @@ https://www.tandfonline.com/doi/abs/10.1080/17449855.2017.1405834
 
 ### Data Feminism
 
+Feminicide and counterdata production: Activist efforts to monitor and challenge gender-related violence
+
+https://doi.org/10.1016/j.patter.2022.100530
 
 ### Other links (administrative)
 
 https://www.cl.cam.ac.uk/teaching/2122/R255/
 
-### Writeup
+### Writeup and Projects
 
 Reimagine a future where AI is deployed  
 
