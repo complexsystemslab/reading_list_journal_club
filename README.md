@@ -112,6 +112,9 @@ Explainable AI Pandora's Box Pitfalls
 
 https://cacm.acm.org/magazines/2022/4/259398-explainable-ai/fulltext
 
+The Nature and Experience of Mathematical Beauty
+
+https://scholarship.claremont.edu/jhm/vol6/iss1/3
 
 Conversations with clinicians
 
